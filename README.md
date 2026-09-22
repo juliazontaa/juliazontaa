@@ -35,17 +35,6 @@ const JuliaZonta = {
 
   location: "Florianópolis, Brazil 🇧🇷",
 
-  skills: {
-    design_and_modeling: [
-      "Figma",
-      "Draw.io",
-      "Canva"
-    ],
-
-    productivity: [
-      "Office 365"
-    ],
-
     soft_skills: [
       "Criatividade",
       "Liderança",
@@ -53,8 +42,7 @@ const JuliaZonta = {
       "Organização",
       "Proatividade",
       "Trabalho em Equipe"
-    ]
-  },
+    ],
 
   languages: [
     "Português (Nativo)",
@@ -64,7 +52,12 @@ const JuliaZonta = {
   tools: [
     "GitHub",
     "Figma",
-    "VS Code"
+    "VS Code",
+    "Draw.io",
+    "Python",
+    "HTML",
+    "CSS",
+    "PostgreSQL",
   ],
 
   passion:
